@@ -1,2 +1,2 @@
-# Banco-de-dados-Clinica-veterin-ria-
+# Banco-de-dados-Clinica-veterinaria-
 Trabalho de banco de dados 
